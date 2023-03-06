@@ -1,0 +1,1144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: content-box;
+   overflow-x: hidden;
+    
+    
+}
+img.img{
+    right: -60%;
+bottom: 12%;
+    width:34%;
+    position:relative;
+}
+span{
+    position: absolute;
+    left: 4%;
+    bottom:44%;   
+}
+#featured{
+    
+   
+    margin-top  : 12%;
+    
+}
+
+.card1{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 40px;
+            
+}
+.card2{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+    box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+    margin-left: 40px;
+    
+}
+.card3{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 40px;
+       
+}
+.card4{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 40px;
+        
+}
+.card5{
+    border: white;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+    margin-left: 40px;
+
+}
+
+
+
+#digit{
+    position: absolute;
+    width: 98%;
+    margin-top: 18%;
+}
+ 
+.im1{
+   width: 23%; 
+}
+.card-text{
+    font-weight: 600;
+    text-align: left;
+}
+.card{
+    width: 87%;
+    border: none;
+    background-color:  #F2FFF8;
+}
+#tech{
+    position: absolute;
+    width: 98%;
+    margin-top:-20%;
+}
+img.img7{
+    width: 65%;
+    bottom: -55%;
+    position: relative;
+    margin-left: 15%;
+    left: 15%;
+}
+.text-4{
+    left: 65%;
+    bottom: -45%;
+}
+img.img8{
+    bottom: -110%;
+    position: relative;
+width: 65%;
+left: 15%;
+}
+img.img9{
+    bottom: -110%;
+    position: relative;
+width: 34%;
+left: -57%; 
+z-index: 1;
+}
+img.img10{
+    position: relative;
+    top: 105%;
+    left: 76%;
+}
+.img15{
+    position: relative;
+    top: 27%;
+    left: -70%;
+}
+.img16{
+    position: relative;
+    top: 24%;
+    left: -5%;
+}
+.img17{
+    position: relative;
+    bottom: -59%;
+    left:-5%;
+}
+.btn{
+    border-radius: 25px;
+}
+#cartes{
+    position: absolute;
+    width: 100%;
+    margin-top:120%;
+    
+}
+.card1{
+    bottom: -87%;
+position: relative;
+border: none;
+}
+
+
+
+section.pt-5.pb-5{
+    position: absolute;
+    width: 100%;
+    margin-top:170%;
+}
+
+
+.row-row{
+    top: 420%;
+   background-color: #F2FFF8;
+    height: 50%;
+   margin-left:-1% ;
+   width: 100%;
+   
+}
+.img-fluid{
+    border-radius: 25px;
+    margin-left: 2%;
+    bottom: 45%;
+}
+.card77{
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+}
+.btn-1{
+    width: 4%;
+}
+.card-text{
+    font-size: 0.8rem;
+}
+footer{
+    position: absolute ;
+    width: 100%;
+    margin-top:220%;
+    
+}
+.img11{
+    right: -67%;
+    bottom: 5%;
+        width:34%;
+        position: relative;
+    }
+.img12{
+    width: 45%;
+    left: 23%;
+    position: relative;
+    z-index: -1;
+}
+.img50{
+    position: relative;
+    top: 76%;
+    left: 89%;
+}
+.img51{
+    position: relative;
+    top: 27%;
+    left: 47%;
+}
+.img52{
+    position: relative;
+    top: 27%;
+    left: 95%;
+}
+.img53{
+    position: relative;
+    margin-top: 5%;
+    left: 64%;
+}
+.img70{
+    position: relative;
+    margin-top:-32%;
+    left: 35%; 
+}
+.img71{
+    position: relative;
+    margin-top: 25%;
+    left: 59%;
+}
+.img72{
+    position: relative;
+    margin-top: -32%;
+    left: 52%;
+}
+.img73{
+    position: relative;
+    margin-top: 12%;
+    left: 15%;
+}
+.img74{
+    position: absolute;
+ top:-1%;
+    left: 43%;   
+}
+.img75{
+    position: absolute;
+ top:16%;
+    left: 35%;   
+    width: 6%;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:480px)   {
+  
+
+
+
+
+
+    img.img{
+        right: -20%;
+    bottom: 12%;
+        width:59%;
+        position:relative;
+    }
+    span{
+        position: absolute;
+        left: 4%;
+        bottom:35%;   
+        font-size: 0.8rem;
+    }
+
+#featured{
+    
+   
+    margin-top  : 78%;
+    
+}
+
+.card1{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 40px;
+            
+}
+.card2{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+    box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+    margin-left: 40px;
+    
+}
+.card3{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 40px;
+       
+}
+.card4{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 40px;
+        
+}
+.card5{
+    border: white;
+    float: left;
+    margin: 20px;
+    padding: 10px 10px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+    margin-left: 40px;
+
+}
+
+
+
+#digit{
+    position: absolute;
+    width: 98%;
+    margin-top: 176%;
+    top: 100%;
+    margin-left: 25%;
+}
+ 
+
+.card-text{
+    font-weight: 600;
+    text-align: left;
+    
+}
+.card{
+    width: 68%;
+    border: none;
+    background-color:  #F2FFF8;
+    
+}
+#tech{
+    position: absolute;
+    width: 98%;
+    margin-top:160%;
+    top: 200%;
+    
+}
+img.img7{
+    width: 65%;
+    bottom: -55%;
+    position: relative;
+    margin-left: 35%;
+    left: 15%;
+}
+.text-4{
+    left: 18%;
+    bottom: -99%;
+    font-size: 0.9rem;
+}
+img.img8{
+    bottom: -110%;
+    position: relative;
+width: 65%;
+left: 15%;
+margin-left: 33%;
+}
+img.img9{
+    bottom: -92%;
+    position: relative;
+width: 38%;
+left: 15%; 
+z-index: 1;
+margin-left: 35%;
+}
+img.img10{
+    position: relative;
+    top: 105%;
+    left: 76%;
+}
+.img15{
+    position: relative;
+    top: 27%;
+    left: -70%;
+    margin-left: 35%;
+}
+.img16{
+    position: relative;
+    top: 24%;
+    left: -5%;
+}
+.img17{
+    position: relative;
+    bottom: -59%;
+    left:-5%;
+}
+.btn{
+    border-radius: 25px;
+}
+#cartes{
+    position: absolute;
+    width: 85%;
+    margin-top:250%;
+    margin-left: 34%;
+    top: 310%;
+}
+.card1{
+    bottom: -87%;
+position: relative;
+border: none;
+}
+
+
+
+section.pt-5.pb-5{
+    position: absolute;
+    width: 68%;
+    margin-top:240%;
+    top: 450%;
+}
+
+
+.row-row{
+    top: 420%;
+   background-color: #F2FFF8;
+    height: 50%;
+   margin-left:37% ;
+   width: 75%;
+   
+}
+.img-fluid{
+    border-radius: 25px;
+    margin-left: 5%;
+    bottom: 45%;
+}
+.card77{
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+}
+.btn-1{
+    width: 4%;
+}
+.card-text{
+    font-size: 0.8rem;
+}
+.card-texte{
+    font-size: 0.5rem;
+}
+.card-title{
+    font-size: 0.6rem;
+}
+footer{
+    position: absolute ;
+    width: 56%;
+    margin-top:290%;
+    top:550%;
+}
+.img11{
+    right: -50%;
+    bottom: 5%;
+        width:98%;
+        position: relative;
+    }
+.img12{
+    width: 96%;
+    left: 45%;
+    position: absolute;
+    z-index: -3;
+}
+.img50{
+    position: relative;
+    top: 76%;
+    left: 89%;
+}
+.img51{
+    position: relative;
+    top: 27%;
+    left: 47%;
+}
+.img52{
+    position: relative;
+    top: 27%;
+    left: 95%;
+}
+.img53{
+    position: relative;
+    margin-top: 5%;
+    left: 64%;
+}
+.img70{
+    position: relative;
+    margin-top:-32%;
+    left: 35%; 
+}
+.img71{
+    position: relative;
+    margin-top: 25%;
+    left: 59%;
+}
+.img72{
+    position: relative;
+    margin-top: -32%;
+    left: 52%;
+}
+.img73{
+    position: relative;
+    margin-top: 12%;
+    left: 15%;
+}
+.img74{
+    position: absolute;
+ top:-1%;
+    left: 43%;   
+}
+.img75{
+    position: absolute;
+ top:16%;
+    left: 35%;   
+    width: 6%;
+}
+
+.txt1{
+    font-size: 0.6rem;
+    left: 35%;
+    bottom: -78%;
+    
+}
+.card99{
+    width: 45%;
+    
+}
+
+.titre{
+    font-size: 1rem;
+}
+
+.text-01{
+    left: 15%;
+    bottom: 13%;
+    font-size: 0.9rem;
+}
+    .btn5{
+        width: 34%;
+        font-size: 0.5rem;
+    }
+    
+    }
+    
+    
+    @media only screen and  (min-width:561px) {
+      
+        
+    
+     
+
+
+        img.img{
+            right: -40%;
+        bottom: 12%;
+            width:59%;
+            position:relative;
+        }
+        span{
+            position: absolute;
+            left: 4%;
+            bottom:35%;   
+            font-size: 0.8rem;
+        }
+        #featured{
+            
+           
+            margin-top  : 12%;
+            
+        }
+        
+        .card1{
+            border: none;
+            float: left;
+            margin: 20px;
+            padding: 10px 10px;
+            background-color: white;
+                box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+                margin-left: 40px;
+                    
+        }
+        .card2{
+            border: none;
+            float: left;
+            margin: 20px;
+            padding: 10px 10px;
+            background-color: white;
+            box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+            margin-left: 40px;
+            
+        }
+        .card3{
+            border: none;
+            float: left;
+            margin: 20px;
+            padding: 10px 10px;
+            background-color: white;
+                box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+                margin-left: 40px;
+               
+        }
+        .card4{
+            border: none;
+            float: left;
+            margin: 20px;
+            padding: 10px 10px;
+            background-color: white;
+                box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+                margin-left: 40px;
+                
+        }
+        .card5{
+            border: white;
+            float: left;
+            margin: 20px;
+            padding: 10px 10px;
+            background-color: white;
+                box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+            margin-left: 40px;
+        
+        }
+        
+        
+        
+        #digit{
+            position: absolute;
+            width: 98%;
+            margin-top: 35%;
+        }
+         
+       
+        .card-text{
+            font-weight: 600;
+            text-align: left;
+            
+        }
+        .card{
+            width: 78%;
+            border: none;
+            background-color:  #F2FFF8;
+            
+        }
+        #tech{
+            position: absolute;
+            width: 98%;
+            margin-top:-10%;
+        }
+        img.img7{
+            width: 65%;
+            bottom: -55%;
+            position: relative;
+            margin-left: 15%;
+            left: 15%;
+        }
+        .text-4{
+            left: 49%;
+            bottom: -55%;
+            font-size: 0.9rem;
+        }
+        img.img8{
+            bottom: -110%;
+            position: relative;
+        width: 65%;
+        left: 15%;
+        }
+        img.img9{
+            bottom: -92%;
+            position: relative;
+        width: 34%;
+        left: 15%; 
+        z-index: 1;
+        }
+        img.img10{
+            position: relative;
+            top: 105%;
+            left: 76%;
+        }
+        .img15{
+            position: relative;
+            top: 27%;
+            left: -70%;
+        }
+        .img16{
+            position: relative;
+            top: 24%;
+            left: -5%;
+        }
+        .img17{
+            position: relative;
+            bottom: -59%;
+            left:-5%;
+        }
+        .btn{
+            border-radius: 25px;
+        }
+        #cartes{
+            position: absolute;
+            width: 85%;
+            margin-top:150%;
+            margin-left: 6%;
+        }
+        .card1{
+            bottom: -87%;
+        position: relative;
+        border: none;
+        }
+        
+        
+        
+        section.pt-5.pb-5{
+            position: absolute;
+            width: 78%;
+            margin-top:190%;
+        }
+        
+        
+        .row-row{
+            top: 420%;
+           background-color: #F2FFF8;
+            height: 50%;
+           margin-left:10% ;
+           width: 100%;
+           
+        }
+        .img-fluid{
+            border-radius: 25px;
+            margin-left: 5%;
+            bottom: 45%;
+        }
+        .card77{
+            background-color: white;
+            width: 80%;
+            margin-left: 10%;
+        }
+        .btn-1{
+            width: 4%;
+        }
+        .card-text{
+            font-size: 0.8rem;
+        }
+        .card-texte{
+            font-size: 0.5rem;
+        }
+        .card-title{
+            font-size: 0.6rem;
+        }
+        footer{
+            position: absolute ;
+            width: 100%;
+            margin-top:250%;
+            
+        }
+        .img11{
+            right: -45%;
+            bottom: 5%;
+                width:50%;
+                position: relative;
+            }
+        .img12{
+            width: 60%;
+            left: 35%;
+            position: absolute;
+            z-index: -3;
+        }
+        .img50{
+            position: relative;
+            top: 76%;
+            left: 89%;
+        }
+        .img51{
+            position: relative;
+            top: 27%;
+            left: 47%;
+        }
+        .img52{
+            position: relative;
+            top: 27%;
+            left: 95%;
+        }
+        .img53{
+            position: relative;
+            margin-top: 5%;
+            left: 64%;
+        }
+        .img70{
+            position: relative;
+            margin-top:-32%;
+            left: 35%; 
+        }
+        .img71{
+            position: relative;
+            margin-top: 25%;
+            left: 59%;
+        }
+        .img72{
+            position: relative;
+            margin-top: -32%;
+            left: 52%;
+        }
+        .img73{
+            position: relative;
+            margin-top: 12%;
+            left: 15%;
+        }
+        .img74{
+            position: absolute;
+         top:-1%;
+            left: 43%;   
+        }
+        .img75{
+            position: absolute;
+         top:16%;
+            left: 35%;   
+            width: 6%;
+        }
+        
+        .txt1{
+            font-size: 0.9rem;
+        }
+        
+        .card99{
+            width: 95%;
+            
+        }
+
+    
+    }
+
+
+
+    
+    @media  only screen  and (min-width:863px) {
+
+        
+  img.img{
+    right: -60%;
+bottom: 12%;
+    width:34%;
+    position:relative;
+}
+span{
+    position: absolute;
+    left: 4%;
+    bottom:44%;   
+}
+#featured{
+    
+   
+    margin-top  : 12%;
+    
+}
+
+.card1{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 4px 4px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 10px;
+            
+}
+.card2{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 4px 4px;
+    background-color: white;
+    box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+    margin-left: 10px;
+    
+}
+.card3{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 4px 4px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 10px;
+       
+}
+.card4{
+    border: none;
+    float: left;
+    margin: 20px;
+    padding: 4px 4px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+        margin-left: 10px;
+        
+}
+.card5{
+    border: white;
+    float: left;
+    margin: 20px;
+    padding:4px 4px;
+    background-color: white;
+        box-shadow: 0px 10px 20px 5px rgba(206, 203, 203, 0.5); 
+    margin-left: 10px;
+
+}
+
+.card-text{
+    font-size: 1.5rem;
+}
+.card-texte{
+    font-size:0.9rem;
+    font-weight: 300;
+}
+.card-title{
+    font-size: 1.3rem;
+}
+
+#digit{
+    position: absolute;
+    width: 98%;
+    margin-top: 18%;
+}
+ 
+.im1{
+   width: 23%; 
+}
+.card-text{
+    font-weight: 600;
+    text-align: left;
+}
+.card{
+    width: 87%;
+    border: none;
+    background-color:  #F2FFF8;
+}
+#tech{
+    position: absolute;
+    width: 98%;
+    margin-top:-20%;
+}
+img.img7{
+    width: 65%;
+    bottom: -55%;
+    position: relative;
+    margin-left: 15%;
+    left: 15%;
+}
+.text-4{
+    left: 65%;
+    bottom: -45%;
+}
+img.img8{
+    bottom: -110%;
+    position: relative;
+width: 65%;
+left: 15%;
+}
+img.img9{
+    bottom: -110%;
+    position: relative;
+width: 34%;
+left: -57%; 
+z-index: 1;
+}
+img.img10{
+    position: relative;
+    top: 105%;
+    left: 76%;
+}
+.img15{
+    position: relative;
+    top: 27%;
+    left: -70%;
+}
+.img16{
+    position: relative;
+    top: 24%;
+    left: -5%;
+}
+.img17{
+    position: relative;
+    bottom: -59%;
+    left:-5%;
+}
+.btn{
+    border-radius: 25px;
+}
+#cartes{
+    position: absolute;
+    width: 100%;
+    margin-top:120%;
+    
+}
+.card1{
+    bottom: -87%;
+position: relative;
+border: none;
+}
+
+
+
+section.pt-5.pb-5{
+    position: absolute;
+    width: 100%;
+    margin-top:170%;
+}
+
+
+.row-row{
+    top: 420%;
+   background-color: #F2FFF8;
+    height: 50%;
+   margin-left:-1% ;
+   width: 100%;
+   
+}
+.img-fluid{
+    border-radius: 25px;
+    margin-left: 2%;
+    bottom: 45%;
+}
+.card77{
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+}
+.btn-1{
+    width: 4%;
+}
+.card-text{
+    font-size: 0.8rem;
+}
+footer{
+    position: absolute ;
+    width: 100%;
+    margin-top:220%;
+    
+}
+.img11{
+    right: -67%;
+    bottom: 5%;
+        width:34%;
+        position: relative;
+    }
+.img12{
+    width: 45%;
+    left: 23%;
+    position: relative;
+    z-index: -1;
+}
+.img50{
+    position: relative;
+    top: 76%;
+    left: 89%;
+}
+.img51{
+    position: relative;
+    top: 27%;
+    left: 47%;
+}
+.img52{
+    position: relative;
+    top: 27%;
+    left: 95%;
+}
+.img53{
+    position: relative;
+    margin-top: 5%;
+    left: 64%;
+}
+.img70{
+    position: relative;
+    margin-top:-32%;
+    left: 35%; 
+}
+.img71{
+    position: relative;
+    margin-top: 25%;
+    left: 59%;
+}
+.img72{
+    position: relative;
+    margin-top: -32%;
+    left: 52%;
+}
+.img73{
+    position: relative;
+    margin-top: 12%;
+    left: 15%;
+}
+.img74{
+    position: absolute;
+ top:-1%;
+    left: 43%;   
+}
+.img75{
+    position: absolute;
+ top:16%;
+    left: 35%;   
+    width: 6%;
+}
+
+
+
+        
+        
+    }
